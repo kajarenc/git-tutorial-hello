@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+file_to_remove_with_git.txt
+
 # C extensions
 *.so
 
